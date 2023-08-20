@@ -103,7 +103,7 @@ body{
         padding-left: 10rem;
         display: flex;
         align-items: center;
-        margin-bottom: 6rem;
+        margin-bottom: 4rem;
 
         & > section:first-child{
             display: flex;
@@ -226,11 +226,11 @@ body{
                 padding: 3rem 0rem;
                 margin: 2rem 0 5rem 0;
                 & > h1{
-                    width: 90%;
+                    width: 85%;
                     font-size: 2rem;
                 }
                 & > p:nth-child(3){
-                    width: 70%;
+                    width: 65%;
                 }
                 & > .subscribe{
                     & p{
